@@ -2,16 +2,17 @@
 
 ##Intelij Code Style Preference
 Copy the file CrafterCms.xml in
-Mac OS X:
+
+* Mac OS X:
 ```
 ~/Library/Preferences/<product-name>/codestyles/
 ```
+* Linux:
 ```
-Linux:
 ~/.<product-name>/config/codeStyles/
 ```
+* Windows:
 ```
-Windows:
 <User home>\.<product-name>\config\codeStyles\
 ```    
 
