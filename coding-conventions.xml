@@ -79,11 +79,8 @@
             <property name="severity" value="warning"/>
         </module>
 
-        <module name="RedundantThrows">
-            <property name="allowUnchecked" value="true"/>
-            <property name="allowSubclasses" value="true"/>
-        </module>
- 
+        <module name="RedundantThrows"/>
+
         <module name="SimplifyBooleanExpression">
             <property name="severity" value="warning"/>
         </module>
